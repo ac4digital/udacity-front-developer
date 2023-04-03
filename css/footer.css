@@ -1,7 +1,8 @@
   
   /* Pie de página */
   footer {
-    background-color: #f8f9fa;
+    /*background-color: #f8f9fa;*/
+    background-color: #3E5C76;
     padding: 20px;
     text-align: center;
   }

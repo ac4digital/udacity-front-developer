@@ -11,10 +11,12 @@ body {
 
 h1 {
     font-family: 'Alkatra';
+    color: #172A3A;
   }
 
 h2, h3, h4, h5 {
     font-family: 'Roboto';
+    color: #004346;
 }
 
   /* Banner Principal */
