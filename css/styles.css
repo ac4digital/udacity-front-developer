@@ -2,11 +2,17 @@
 @import "body.css";
 @import "footer.css";
 
+
+/* Importar Fuentes de Google Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&family=Open+Sans&family=Alkatra&display=swap');
+
 /* Estilos generales */
   
   /* Navbar */
   .navbar-brand {
-    font-size: 2rem;
-    font-weight: bold;
+    /*font-size: 2rem;*/
+    font-size: 1em;
+    font-weight: normal;
   }
   

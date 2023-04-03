@@ -1,20 +1,22 @@
 /* Estilos generales */
 body {
-    font-family: 'Open Sans', sans-serif;
-  }
-  
-  /* Navbar */
-  .navbar-brand {
-    font-size: 2rem;
-    font-weight: bold;
+    font-family: 'Montserrat', 'Roboto', 'Open Sans', 'Alkatra', sans-serif;
   }
   
   /* Contenido principal */
   .container {
-    /*max-width: 800px;*/
-    max-width: 100%;
+    max-width: 80%;
 
   }
+
+h1 {
+    font-family: 'Alkatra';
+  }
+
+h2, h3, h4, h5 {
+    font-family: 'Roboto';
+}
+
   /* Banner Principal */
   .banner {
     width: 100%;
@@ -43,9 +45,3 @@ body {
     height: auto;
   }
   
-  /* Pie de página */
-  footer {
-    background-color: #f8f9fa;
-    padding: 20px;
-    text-align: center;
-  }
