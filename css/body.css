@@ -1,0 +1,51 @@
+/* Estilos generales */
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  /* Navbar */
+  .navbar-brand {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  /* Contenido principal */
+  .container {
+    /*max-width: 800px;*/
+    max-width: 100%;
+
+  }
+  /* Banner Principal */
+  .banner {
+    width: 100%;
+    height: auto;
+  }
+  
+  .banner img {
+    width: 100%;
+    height: auto;
+  }
+  
+  /* Botones */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+  }
+  
+  /* Imágenes */
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Pie de página */
+  footer {
+    background-color: #f8f9fa;
+    padding: 20px;
+    text-align: center;
+  }

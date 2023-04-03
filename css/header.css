@@ -1,7 +1,3 @@
-@import "header.css";
-@import "body.css";
-@import "footer.css";
-
 /* Estilos generales */
   
   /* Navbar */
@@ -9,4 +5,5 @@
     font-size: 2rem;
     font-weight: bold;
   }
+  
   
